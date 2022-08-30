@@ -1,0 +1,23 @@
+polymorphism:Many ways to perform anything
+
+1)Method Overloading:When two methods having a same name
+but number of arguments are diffrent
+
+2)Method Overriding:When two methods having a same name
+and arguments are also same
+
+
+Functions:
+
+Pre Defined
+
+named
+Lambda
+Extension
+Infix
+
+
+
+User Defined[Parameter(arguments) & Return Type]
+
+
